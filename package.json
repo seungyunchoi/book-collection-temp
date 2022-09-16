@@ -1,5 +1,5 @@
 {
-  "name": "book-collection",
+  "name": "book-col",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
